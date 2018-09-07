@@ -1,4 +1,4 @@
 [submodule "tests"]
 	path = tests
-	url = https://github.com/ethereum/tests
-	branch = develop
+	url = https://github.com/mattdean-digicatapult/tests
+	branch = add-new-touched-cleanup-case
